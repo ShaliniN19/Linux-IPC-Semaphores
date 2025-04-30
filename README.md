@@ -126,6 +126,9 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
+
 ![img](./img/ex05-1.png)
 
 $ ipcs
